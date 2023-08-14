@@ -78,5 +78,5 @@ If you have any feedback, please reach out to us at fdelgado9800@gmail.com
 
 ## Screenshots
 
-![Interfaz de Inicio de Sesión](screenshots/login.png)
+![Interfaz de Inicio de Sesión](https://github.com/FernandoDelgadoC/RiconsitoDelSabor/raw/main/screenshots/Login.png)
 
