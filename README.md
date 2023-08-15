@@ -80,3 +80,9 @@ If you have any feedback, please reach out to us at fdelgado9800@gmail.com
 
 ![Interfaz de Inicio de Sesión](https://github.com/FernandoDelgadoC/RiconsitoDelSabor/raw/main/screenshots/Login.png)
 
+![Interfaz de MenuPrincipal](https://github.com/FernandoDelgadoC/RiconsitoDelSabor/raw/main/screenshots/MenuInterfaz.png)
+
+![Interfaz de Inventario](https://github.com/FernandoDelgadoC/RiconsitoDelSabor/raw/main/screenshots/Inventario.png)
+
+![Interfaz de facturacion](https://github.com/FernandoDelgadoC/RiconsitoDelSabor/raw/main/screenshots/Facturacion.png)
+
